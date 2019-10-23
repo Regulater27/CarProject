@@ -1,4 +1,0 @@
-Flask==0.10.1
-gunicorn==19.9.0
-pandas==0.25.2
-fuzzywuzzy==0.17.0
